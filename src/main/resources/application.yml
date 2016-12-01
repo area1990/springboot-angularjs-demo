@@ -33,3 +33,5 @@ shell:
     port: 2222
     auth: spring
 
+server:
+    port: 9090
