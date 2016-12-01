@@ -1,0 +1,11 @@
+com\kms\contact\repository\ContactRepository.class
+com\kms\contact\domain\Contact.class
+com\kms\contact\service\ContactService.class
+com\kms\contact\web\controller\BaseController.class
+com\kms\contact\web\controller\ContactController.class
+com\kms\contact\Application.class
+com\kms\contact\web\ContactHealth.class
+com\kms\contact\web\controller\PhotoController.class
+com\kms\contact\web\security\ContactSecurity.class
+com\kms\contact\web\controller\SecurityController.class
+com\kms\contact\Configuration.class
